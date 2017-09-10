@@ -1,0 +1,40 @@
+# Classic-Arcade-Game-Clone
+ -HTML5 Canvas, Object Oriented JavaScript, CSS, HTML
+ Arcade Game version 1.0 04/29/2017
+
+ PROJECT DESCRIPTION
+ ------------------------------------------------------------------------------------------------------
+
+ The goal of the game is to reach water avoiding collision with enemies. This project has basic game functionality and covers Object-Oriented JavaScipt concepts and HTML5 Canvas.
+
+ ------------------------------------------------------------------------------------------------------
+
+ Installing
+
+ ------------------------------------------------------------------------------------------------------
+ Specific procedures are not required. Right click on file, pick 'Open with...', chose your preferred browser.
+ Can see the output by double clicking on index.html.
+ To edit editor like sublime text, notepad++ or atom is required.
+ Chrome dev tools are to be used for testing.
+
+ ------------------------------------------------------------------------------------------------------
+ How to play
+ ------------------------------------------------------------------------------------------------------
+
+ Use arrow keys to navigate the character. You can move up, down, left, right.
+ Navigate the character to avoid collision with bugs.
+ Colliding with bugs causes game reset to initial character position.
+ Reach water to win the game
+ Good Luck! and have fun!
+ ------------------------------------------------------------------------------------------------------
+
+ Game folder files:
+
+ - style.css - css file for index.html.
+ - images (folder)- contains images required to run the game.
+ - js (folder):
+   - app.js - javascript file to provide object essential functionality
+   - engine.js - provides general program functionality
+   - resource.js - simple image loading utility
+   - index.html - HTML file providing basic DOM structure for the program.
+   - readme.txt - Game and overall program description
